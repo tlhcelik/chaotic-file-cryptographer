@@ -1,4 +1,4 @@
-# chaotic-file-cryptographer
+# Chaotic File Cryptographer
 File cryptographer with 1D Logistic map and chaotic behaviour
 
 #File Encryption:
